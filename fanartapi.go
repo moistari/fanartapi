@@ -1,3 +1,6 @@
+// Package fanartapi provides a fanart.tv client.
+//
+// See: https://fanarttv.docs.apiary.io
 package fanartapi
 
 import (
